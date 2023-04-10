@@ -17,4 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 0c6b6a668e7ea4f589f1044bb1e11f2d
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: 42e7104af4912426ab0943ee057a5180
+  - enabled: 1
+    path: Assets/Scenes/ARScene.unity
+    guid: fd3912cec7a9141f5a35cca9979df0c5
+  - enabled: 1
+    path: Assets/Scenes/MetaverseScene.unity
+    guid: 79703a18dc8014fa690ac29063bdc244
   m_configObjects: {}
