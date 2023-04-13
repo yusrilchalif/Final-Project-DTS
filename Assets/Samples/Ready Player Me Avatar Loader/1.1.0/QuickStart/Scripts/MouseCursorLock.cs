@@ -22,7 +22,5 @@ public class MouseCursorLock : MonoBehaviour
 
     public void Apply()
     {
-        Cursor.visible = hideCursor;
-        Cursor.lockState = cursorLockMode;
     }
 }
